@@ -7,3 +7,6 @@ Computer Network Practicum 3rd Module I10
 |-----------------------------|------------|
 |Riski Ilyas                  | 5025211189 |
 |Vija Wildan Gita Prabawa     | 5025211261 |
+
+## Topology
+![topology](https://media.discordapp.net/attachments/919468862725046322/1175793363295932416/image.png?ex=656c85e6&is=655a10e6&hm=5de6b7b5c44229befe4c01d825434e343bffd321acad019298bb9424184d278c&=&width=956&height=702)
